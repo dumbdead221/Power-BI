@@ -2,6 +2,18 @@
 
 Welcome to my Power BI dashboard repository! This collection showcases various business intelligence dashboards created using Microsoft Power BI, demonstrating data visualization and analytical capabilities across different domains.
 
+## 🖼️ Dashboard Gallery
+
+### Monthly Sales Dashboard Preview
+![Monthly Sales Dashboard - Overview](images/monthly-sales-dashboard-1.png)
+*Monthly Sales Dashboard - Main Overview*
+
+![Monthly Sales Dashboard - Details](images/monthly-sales-dashboard-2.png)
+*Monthly Sales Dashboard - Detailed View*
+
+### Additional Dashboard Previews
+*More dashboard images coming soon...*
+
 ## 📊 Dashboard Overview
 
 ### 1. Monthly Sales Dashboard
