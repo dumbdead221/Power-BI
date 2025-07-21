@@ -11,6 +11,10 @@ Welcome to my Power BI dashboard repository! This collection showcases various b
 ![Monthly Sales Dashboard - Details](images/monthly-sales-dashboard-2.png)
 *Monthly Sales Dashboard - Detailed View*
 
+### Web Analytics Dashboard Preview
+![Web Analytics Dashboard](images/web-analytics-dashboard.png)
+*Web Analytics Dashboard - Traffic and User Behavior Analysis*
+
 ### Additional Dashboard Previews
 *More dashboard images coming soon...*
 
